@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SOLOMON BENCHMARKS using DEAP and ORT
 
 This is a placeholder README, I will update it with more details at a later point.
