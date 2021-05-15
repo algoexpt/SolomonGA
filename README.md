@@ -1,6 +1,6 @@
 # SOLOMON BENCHMARKS using DEAP and ORT
 
-This is a placeholder README, I will update it with more details at a later point.
+I've written a blog post about this project, worth having a read if you're interested: https://www.notion.so/ajayarn/Using-Evolutionary-Algorithms-for-the-CVRP-0bfa73e06d5247a1bfa4988d33ef304b
 
 # High level design
 - GA (DEAP) as a meta-heuristic, CP-Sat solver as a sub optimizer
