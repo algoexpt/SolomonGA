@@ -9,4 +9,4 @@ I've written a blog post about this project, worth having a read if you're inter
 - Use K-Means clustering for generating initial population
 
 # Results
-- Within 5% for R101, C101. Within 10% for RC.
+- Within 5% for R101, C101. 
